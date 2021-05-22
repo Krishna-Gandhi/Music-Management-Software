@@ -1,6 +1,6 @@
 # Music-Management-Software
 
-**1 Objective**
+**1) Objective**
 
 
 Music Library Management System have to manage various musical items comes with
@@ -12,7 +12,7 @@ bill, add new music in database, edit the music description, and delete any item
 shows the total music in stock, and it can find the specific music.
 
 
-**2 Introduction**
+**2) Introduction**
 
 
 The program can create order, find music, sold items, item in stock, all items, add new
@@ -39,3 +39,31 @@ _7. **Edit Item**_ Edit any item content.
 _8. **Remove Item**_ Can delete any item from database.
 
 _9. **Exit**_ Exit the program.
+
+
+**3) Code Description**
+
+
+**Class Music**
+
+Class used to declare the variables and functions Function main.
+
+The switch case is used for switching between this function
+
+**• AddNewItemInDatabase();**
+
+**• ShowAllItems();**
+
+**• ItemInStock();**
+
+**• FindMusic();**
+
+**• EditItem();**
+
+**• RemoveItem();**
+
+**• CreateOrder();**
+
+
+
+
